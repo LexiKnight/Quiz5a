@@ -37,6 +37,3 @@ class(undergrad_readings$'Rol') == "numeric"
 
 # check Mike is numeric
 class(undergrad_readings$'Mike') == "numeric"
-
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
